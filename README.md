@@ -1,5 +1,7 @@
 # Nulled.to releases authentication module for python
 
+[Official Nulled.to Thread](https://www.nulled.to/topic/1394300-release-authentication-module-for-python-3/)
+
 [![PyPi Package](https://img.shields.io/pypi/v/nulled-auth.svg)](https://pypi.org/project/nulled-auth/)
 
 ## Requirements
